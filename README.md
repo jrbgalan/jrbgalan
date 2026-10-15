@@ -15,9 +15,6 @@ $ cat about.txt
 Full stack dev. I build responsive, polished web apps
 with smooth animation and a focus on UX.
 
-$ ls ./projects
-haven-stays-platform  shizuka-cafe  apex-fitness
-stride-sneaker-store  maison-aurelle
 ```
 
 ### `~/stack`
