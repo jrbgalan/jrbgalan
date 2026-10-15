@@ -21,15 +21,6 @@ with smooth animation and a focus on UX.
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,github,vscode&theme=dark" alt="Tech stack" />
 
-### `~/projects`
-
-| project | description |
-|:--|:--|
-| [`haven-stays-platform`](https://github.com/jrbgalan/haven-stays-platform) | stay-booking platform with a booking system |
-| [`shizuka-cafe`](https://github.com/jrbgalan/shizuka-cafe) | zen-inspired café site with menu and AI chat demo |
-| [`apex-fitness`](https://github.com/jrbgalan/apex-fitness) | premium, mobile-first fitness website |
-| [`stride-sneaker-store`](https://github.com/jrbgalan/stride-sneaker-store) | premium, responsive sneaker store |
-| [`maison-aurelle`](https://github.com/jrbgalan/maison-aurelle) | modern, responsive web build |
 
 ### `~/contributions`
 
@@ -42,5 +33,3 @@ with smooth animation and a focus on UX.
 ### `~/contact`
 
 [website](https://johnromeogalan.vercel.app) · [linkedin](https://www.linkedin.com/in/JohnRomeoGalan) · [instagram](https://www.instagram.com/johangalan_)
-
-<p align="center"><sub>$ exit 0</sub></p>
