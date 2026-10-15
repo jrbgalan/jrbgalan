@@ -27,5 +27,3 @@ with smooth animation and a focus on UX.
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=jrbgalan&theme=dark&background=0d1117&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&stroke=30363d&hide_border=true" alt="GitHub streak" />
 </p>
-
-<img src="https://ghchart.rshah.org/00ff9c/jrbgalan" alt="jrbgalan's contribution graph" />
