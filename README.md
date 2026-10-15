@@ -1,12 +1,3 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=640&lines=%3E+John+Romeo+Galan;%3E+full+stack+developer;%3E+building+clean+web+experiences_" alt="John Romeo Galan - full stack developer" />
-</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/status-focusing-00ff9c?style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/based%20in-Metro%20Manila-00ff9c?style=flat-square&labelColor=0d1117" />
-</p>
-
 ```bash
 $ whoami
 john-romeo-galan
