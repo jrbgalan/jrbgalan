@@ -29,7 +29,3 @@ with smooth animation and a focus on UX.
 </p>
 
 <img src="https://ghchart.rshah.org/00ff9c/jrbgalan" alt="jrbgalan's contribution graph" />
-
-### `~/contact`
-
-[website](https://johnromeogalan.vercel.app) · [linkedin](https://www.linkedin.com/in/JohnRomeoGalan) · [instagram](https://www.instagram.com/johangalan_)
