@@ -28,7 +28,7 @@ with smooth animation and a focus on UX.
   <img src="https://streak-stats.demolab.com?user=jrbgalan&theme=dark&background=0d1117&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&stroke=30363d&hide_border=true" alt="GitHub streak" />
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jrbgalan&bg_color=0d1117&color=00ff9c&line=00ff9c&point=ffffff&area=true&area_color=00ff9c&hide_border=true" alt="Contribution activity graph" />
+<img src="https://ghchart.rshah.org/00ff9c/jrbgalan" alt="jrbgalan's contribution graph" />
 
 ### `~/contact`
 
